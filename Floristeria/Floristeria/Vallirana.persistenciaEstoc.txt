@@ -1,3 +1,0 @@
-id. A16, alçada: 55.0, preu: 20.5.
-id. D19, material: plastic, preu: 3.25.
-id. F20, color: Blau, preu: 1.5.
