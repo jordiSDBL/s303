@@ -1,0 +1,2 @@
+id. A16, alçada: 55.0, preu: 20.5.
+id. F20, color: Blau, preu: 1.5.

@@ -1,0 +1,21 @@
+COMPRA:
+id. A13, alçada: 45.0, preu: 12.0.
+id. A15, alçada: 125.0, preu: 12.0.
+
+COMPRA:
+id. A18, alçada: 61.0, preu: 60.0.
+id. F14, color: Magda, preu: 3.0.
+
+COMPRA:
+id. A16, alçada: 12.0, preu: 12.0.
+id. A17, alçada: 122.0, preu: 54.0.
+id. F8, color: Verda, preu: 4.0.
+id. D11, material: fusta, preu: 14.0.
+
+COMPRA: 
+id. A15, alçada: 85.0, preu: 24.0.
+id. D18, material: fusta, preu: 5.0.
+
+COMPRA: 
+id. D19, material: fusta, preu: 3.0.
+
