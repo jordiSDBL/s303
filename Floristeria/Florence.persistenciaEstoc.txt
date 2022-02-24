@@ -1,4 +1,0 @@
-id. D3, material: fusta, preu: 1.25.
-id. D4, material: fusta, preu: 5.7.
-id. D6, material: plastic, preu: 2.25.
-id. D8, material: plastic, preu: 15.95.

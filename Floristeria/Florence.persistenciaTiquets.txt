@@ -1,6 +1,0 @@
-COMPRA:
-id. A1, alçada: 111.0, preu: 111.0.
-
-COMPRA:
-id. A2, alçada: 222.0, preu: 22.0.
-
